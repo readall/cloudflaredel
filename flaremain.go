@@ -10,9 +10,9 @@ import (
 )
 
 const (
-	user   = "llearnell@gmail.com"
-	domain = "safenetapp.com"
-	apiKey = "e53145712923cb7cdd3284d14a7b981f926ce"
+	user   = "lemail@exmple.com"
+	domain = "exampledomainname.com"
+	apiKey = "api-key"
 )
 
 func main() {
